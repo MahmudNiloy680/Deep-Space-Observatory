@@ -1,0 +1,5 @@
+{
+  "name": "Deep Space Observatory",
+  "description": "An advanced frontend to explore high-resolution space imagery. Features a modern, clean UI, a gallery of celestial targets, deep-zoom viewing, and a dedicated sidebar for image descriptions and AI-powered regional analysis.",
+  "requestFramePermissions": []
+}
